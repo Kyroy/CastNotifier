@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Addon Author="Kyroy" APIVersion="9" Name="CastNotifier" Description="Notifies you about casts you want.">
+    <Script Name="CastNotifier.lua"/>
+    <Form Name="CastNotifier.xml"/>
+</Addon>
